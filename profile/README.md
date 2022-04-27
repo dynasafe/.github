@@ -1,12 +1,7 @@
 ## Hi there 👋
 
-<!--
+Welcome to Dynasafe Github 👍
 
-**Here are some ideas to get you started:**
+Dynasafe Technologies Inc. has concentrated on secure information technology construction services since its foundation in 2002. The service is aimed to provide companies around the world with unique and comprehensive technological capabilities and specialized solutions, focus on the service concept of "smart enterprise information implementation" and "anywhere anytime service", provide enterprises with specialized services by single window from service offices in Australia, Southeast Asia, China, and Japan to help clients to maintain an effective global presence. 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+![image](https://user-images.githubusercontent.com/6142903/165465540-820bd09e-a679-410c-b64a-a1badef7a6f2.png)
